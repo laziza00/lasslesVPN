@@ -302,11 +302,12 @@ body{
     margin-right: 0;
 }
 .customer-item{
-    background: #FFFFFF;
-    border: 2px solid #F53838;
+    border: 2px solid #DDDDDD;
     box-sizing: border-box;
     border-radius: 10px;
+    border-radius: 10px;
     width: 350px;
+    height: 270px;
     padding: 30px;
 }
 .customer-list{
